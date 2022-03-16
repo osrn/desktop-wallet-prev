@@ -4,7 +4,7 @@
     "private": true,
     "description": "Solar Wallet",
     "homepage": "./",
-    "author": "multiple authors",
+    "author": "multiple authors <AUTHORS>",
     "bugs": {
         "url": "https://github.com/solar-network/desktop-wallet/issues"
     },
