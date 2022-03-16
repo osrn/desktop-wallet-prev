@@ -1,8 +1,5 @@
 # Solar Desktop Wallet
 
-
-> Lead Maintainer: [Brian Faust](https://github.com/faustbrian)
-
 ## Download
 
 [Latest Release](https://github.com/solar-network/desktop-wallet/releases/latest)
@@ -100,7 +97,6 @@ If you discover a security vulnerability within this package, please send an e-m
 This project exists thanks to all the people who [contribute](../../contributors).
 
 ## License
-Please read the separate LICENSE file for details.
 
 Please read the separate [LICENSE](LICENSE) file for details.
 
